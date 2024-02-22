@@ -11,24 +11,25 @@ Hi! Welcome to my homepage！
 
 About me
 ======
-My name is DanZhuo and I'm in my first year as a Ph.D. student in Fudan University. My 
+My name is DanZhuo and I'm in my first year as a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and in 2023 changed to my doctor's degree. 
+My reserch interests including P2P network, ditributed storage network and machine learning.
 
+News
+------
+[06/2023]Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23
 
 Publication
 ======
-Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23, [Link](https://doi.org/10.1145/3603165.3607397)
+Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23, [Details](https://doi.org/10.1145/3603165.3607397)
 
 
 Education
 ------
 Ph.D. Candidate, School of Computer Science, Fudan University (2021.9-Present)
 
-Advisor: Prof. Xin Wang, Prof. Yang Chen
+Advisor: [Prof. Xin Wang](https://xinwfudan.mysxl.cn/), [Prof. Yang Chen](https://chenyang03.wordpress.com/)
 
-Bachelor's Degree, Southwestern University of Finance and Economics (2016.9-2020.6)
-
-Create content & metadata
-------
+Bachelor's Degree, School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics (2016.9-2020.6)
 
 
 Awards and Honors
