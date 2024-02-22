@@ -14,9 +14,9 @@ About me
 My name is DanZhuo and I'm in my first year as a Ph.D. student in Fudan University. My 
 
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning[Link](https://doi.org/10.1145/3603165.3607397)
 
 
 Education
