@@ -25,11 +25,9 @@ Publication
 
 Education
 ------
-Ph.D. Candidate, School of Computer Science, Fudan University (2021.9-Present)
-
-Advisor: [Prof. Xin Wang](https://xinwfudan.mysxl.cn/), [Prof. Yang Chen](https://chenyang03.wordpress.com/)
-
-Bachelor's Degree, School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics (2016.9-2020.6)
+* Ph.D. Candidate, School of Computer Science, Fudan University (2021.9-Present)<br>
+Advisor: [Prof. Xin Wang](https://xinwfudan.mysxl.cn/), [Prof. Yang Chen](https://chenyang03.wordpress.com/)<br>
+* Bachelor's Degree, School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics (2016.9-2020.6)<br>
 
 
 Awards and Honors
