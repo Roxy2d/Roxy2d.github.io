@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Hi! Welcome to my homepage！"
+title: "Dan Zhuo's Homepage(卓丹)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-#add greeting words
+Hi! Welcome to my homepage！
 
 About me
 ------
