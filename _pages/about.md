@@ -9,9 +9,10 @@ redirect_from:
 
 Hi! Welcome to my homepage！
 
+
 About me
-======
-My name is Dan Zhuo and I'm in my first year as a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and in 2023 changed to my doctor's degree. 
+------
+My name is Dan Zhuo and I'm in my first year as a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and in 2023 changed to my doctor's degree. I graduated from School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics in 2020 with a B.S.<br>
 My reserch interests including P2P network, ditributed storage network and machine learning.
 
 News
@@ -19,9 +20,8 @@ News
 [06/2023]Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23
 
 Publication
-======
+------
 * Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23, [Details](https://doi.org/10.1145/3603165.3607397)
-
 
 Education
 ------
