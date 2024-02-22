@@ -20,7 +20,7 @@ News
 
 Publication
 ======
-Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23, [Details](https://doi.org/10.1145/3603165.3607397)
+* Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23, [Details](https://doi.org/10.1145/3603165.3607397)
 
 
 Education
@@ -34,9 +34,9 @@ Bachelor's Degree, School of Computing and Artificial Intelligence, Southwestern
 
 Awards and Honors
 ------
-2022 ~ 2023, Outstanding Student Leader, Fudan University
-2021 ~ 2022, Academic Excellence Scholarship (First Class), Fudan University
-2018 ~ 2019, National Inspirational Scholarship, Southwestern University of Finance and Economics
+* 2022 ~ 2023, Outstanding Student Leader, Fudan University
+* 2021 ~ 2022, Academic Excellence Scholarship (First Class), Fudan University
+* 2018 ~ 2019, National Inspirational Scholarship, Southwestern University of Finance and Economics
 
 For more info
 ------
