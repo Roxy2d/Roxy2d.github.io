@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DanZhuo's HomePage（卓丹）"
+title: "Dan Zhuo's HomePage（卓丹）"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ Hi! Welcome to my homepage！
 
 About me
 ======
-My name is DanZhuo and I'm in my first year as a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and in 2023 changed to my doctor's degree. 
+My name is Dan Zhuo and I'm in my first year as a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and in 2023 changed to my doctor's degree. 
 My reserch interests including P2P network, ditributed storage network and machine learning.
 
 News
@@ -34,8 +34,10 @@ Bachelor's Degree, School of Computing and Artificial Intelligence, Southwestern
 
 Awards and Honors
 ------
-
+2022 ~ 2023, Outstanding Student Leader, Fudan University
+2021 ~ 2022, Academic Excellence Scholarship (First Class), Fudan University
+2018 ~ 2019, National Inspirational Scholarship, Southwestern University of Finance and Economics
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about my group can be found in [the guide](https://fudan-datanet.mysxl.cn/).
