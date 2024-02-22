@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Dan Zhuo's HomePage（卓丹）"
+title: "Hi! Welcome to my homepage！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! Welcome to my homepage！
-
+#add greeting words
 
 About me
 ------
@@ -17,6 +16,7 @@ My reserch interests including P2P network, ditributed storage network and machi
 
 News
 ------
+[02/2024]Public data set on IPFS measurements [May,2023 ~ July, 2023]()
 [06/2023]Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23
 
 Publication
