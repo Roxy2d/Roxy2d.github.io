@@ -15,8 +15,8 @@ My reserch interests including Peer-to-Peer networks, ditributed storage systems
 
 News
 ------
-[02/2024] While in a P2P network, nodes rely on other nodes to get the resource to a large extend. To find out the mutual influences of the nodes, our work mainly focus on the online duration of users on IPFS. We crawl the IPFS network every 10 minutes and collect the basic information of each node buiding a peer-level dataset. The data on IPFS measurements during May, 2023 ~ July, 2023 was made public.[link](https://ipfs.io/ipfs/QmVN2jUuPtr7h4JoUPgvZeYxSdRtUi2K842MJaAra1KZ9t)<br>
-[06/2023] Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23
+[02/2024] While in a P2P network, nodes rely on other nodes to get the resource to a large extend. To find out the mutual influences of the nodes, our work mainly focus on the online duration of users on IPFS. We crawl the IPFS network every 10 minutes and collect the basic information of each node buiding a peer-level dataset. The data on IPFS measurements during May, 2023 ~ July, 2023 was made public.[Link](https://ipfs.io/ipfs/QmVN2jUuPtr7h4JoUPgvZeYxSdRtUi2K842MJaAra1KZ9t)<br>
+[06/2023] Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23[Link](https://dl.acm.org/doi/10.1145/3603165.3607397)
 
 Publication
 ------
