@@ -10,12 +10,13 @@ Hi! Welcome to my homepage！
 
 About me
 ------
-My name is Dan Zhuo and I'm in my first year as a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and in 2023 changed to my doctor's degree. I graduated from School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics in 2020 with a B.S.<br>
-My reserch interests including P2P network, ditributed storage network and machine learning.
+My name is Dan Zhuo and I'm a Ph.D. student in [the Big Data and Networking (DataNET) Group](https://fudan-datanet.mysxl.cn/) of the SONIC Laboratory, School of Computer Science at Fudan University, advised by [Prof. Xin Wang](https://xinwfudan.mysxl.cn/) and [Prof. Yang Chen](https://chenyang03.wordpress.com/). I entered Fudan University in 2021 to begin my master's degree and now for my doctor's degree. I graduated from School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics in 2020 with a B.S.<br>
+My reserch interests including Peer-to-Peer networks, ditributed storage systems and machine learning.
 
 News
 ------
-[02/2024]Public data set on IPFS measurements [May,2023 ~ July, 2023](https://ipfs.io/ipfs/QmPZw8MLLte8edpedxhvv18LNBq7bKWDK6npVSU9MHQriu?filename=Public_Dataset.zip)<br>
+[02/2024]Public data set on IPFS measurements during May, 2023 ~ July, 2023. Our work mainly focus on 
+[link](https://ipfs.io/ipfs/QmVN2jUuPtr7h4JoUPgvZeYxSdRtUi2K842MJaAra1KZ9t)<br>
 [06/2023]Towards the Predictability of IPFS Nodes’ Session Time Using Machine Learning, ACM TURC'23
 
 Publication
@@ -25,7 +26,7 @@ Publication
 Education
 ------
 * Ph.D. Candidate, School of Computer Science, Fudan University (2021.9-Present)<br>
-Advisor: [Prof. Xin Wang](https://xinwfudan.mysxl.cn/), [Prof. Yang Chen](https://chenyang03.wordpress.com/)<br>
+Advisors: [Prof. Xin Wang](https://xinwfudan.mysxl.cn/), [Prof. Yang Chen](https://chenyang03.wordpress.com/)<br>
 * Bachelor's Degree, School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics (2016.9-2020.6)<br>
 
 
